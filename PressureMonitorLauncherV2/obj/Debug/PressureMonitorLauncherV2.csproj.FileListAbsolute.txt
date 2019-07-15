@@ -1,0 +1,10 @@
+E:\Work\svn\PressureMonitoringSystem\trunk\PC\PressureMonitorLauncherV2\PressureMonitorLauncherV2\bin\Debug\PressureMonitorLauncherV2.exe.config
+E:\Work\svn\PressureMonitoringSystem\trunk\PC\PressureMonitorLauncherV2\PressureMonitorLauncherV2\bin\Debug\PressureMonitorLauncherV2.exe
+E:\Work\svn\PressureMonitoringSystem\trunk\PC\PressureMonitorLauncherV2\PressureMonitorLauncherV2\bin\Debug\PressureMonitorLauncherV2.pdb
+E:\Work\svn\PressureMonitoringSystem\trunk\PC\PressureMonitorLauncherV2\PressureMonitorLauncherV2\obj\Debug\PressureMonitorLauncherV2.bootstrap.resources
+E:\Work\svn\PressureMonitoringSystem\trunk\PC\PressureMonitorLauncherV2\PressureMonitorLauncherV2\obj\Debug\PressureMonitorLauncherV2.Properties.Resources.resources
+E:\Work\svn\PressureMonitoringSystem\trunk\PC\PressureMonitorLauncherV2\PressureMonitorLauncherV2\obj\Debug\PressureMonitorLauncherV2.csproj.GenerateResource.cache
+E:\Work\svn\PressureMonitoringSystem\trunk\PC\PressureMonitorLauncherV2\PressureMonitorLauncherV2\obj\Debug\PressureMonitorLauncherV2.csproj.CoreCompileInputs.cache
+E:\Work\svn\PressureMonitoringSystem\trunk\PC\PressureMonitorLauncherV2\PressureMonitorLauncherV2\obj\Debug\PressureMonitorLauncherV2.exe
+E:\Work\svn\PressureMonitoringSystem\trunk\PC\PressureMonitorLauncherV2\PressureMonitorLauncherV2\obj\Debug\PressureMonitorLauncherV2.pdb
+E:\Work\svn\PressureMonitoringSystem\trunk\PC\PressureMonitorLauncherV2\PressureMonitorLauncherV2\obj\Debug\PressureMonitorLauncherV2.csprojAssemblyReference.cache
